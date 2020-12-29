@@ -8,19 +8,14 @@ main(){
     
   
 
-
-
-  int num = rand(60);
     
-    printf("numero: ", %d);
+    printf("Hello World !");
     
   
     
     
     
-    
-    
-    
+
     
     getch();
 }
